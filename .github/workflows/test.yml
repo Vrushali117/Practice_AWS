@@ -1,5 +1,4 @@
 name: AWS OIDC Demo
-
 on:
   workflow_dispatch:
 
